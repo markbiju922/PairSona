@@ -33,7 +33,7 @@ AI-powered dating app that matches users based on Myers-Briggs (MBTI) personalit
 ---
 
 ## 📸 Screenshots (Coming Soon)
-_(Add images of your app's UI here once you have them)_
+
 
 ---
 
